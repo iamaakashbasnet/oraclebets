@@ -4,3 +4,6 @@
 <h3 align="center">OracleBets</h3>
 <p align="center">Copilot for your next trade</p>
 <p align="center">OracleBets public space for community and support.</p>
+
+## Abstract
+A novel approach to systematic trading signal generation that dynamically adapts scoring thresholds and penalty structures based on market volatility regimes, incorporating multi-timeframe analysis with context-aware indicator interactions.
