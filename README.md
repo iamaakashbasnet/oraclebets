@@ -7,3 +7,5 @@
 
 ## Abstract
 A novel approach to systematic trading signal generation that dynamically adapts scoring thresholds and penalty structures based on market volatility regimes, incorporating multi-timeframe analysis with context-aware indicator interactions following deterministic approach.
+
+> Idea behind OracleBets: [Blog](https://iamaakashbasnet.medium.com/oraclebets-building-a-traders-co-pilot-71e38a49c6b1)
